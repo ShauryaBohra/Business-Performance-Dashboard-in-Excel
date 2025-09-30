@@ -1,7 +1,11 @@
-Interactive Business Intelligence Dashboard 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb52ef66-7a20-4673-95f9-b24fe4d5070e" />
-<img width="1916" height="1074" alt="image" src="https://github.com/user-attachments/assets/55862b9d-00d8-4ac1-a8fc-4020a53a7625" />
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ae90035-3b4c-4e15-998d-418c01b1cc9f" />
+Business Performance Dashboard in Excel
+
+<img width="1372" height="650" alt="image" src="https://github.com/user-attachments/assets/fbdd9a6e-e9c9-497a-bb2b-8c41c2c1ec05" />
+<img width="1375" height="651" alt="image" src="https://github.com/user-attachments/assets/a3c67094-911d-4b8e-bc02-5cada4ab99ed" />
+<img width="1371" height="651" alt="image" src="https://github.com/user-attachments/assets/ca5e6587-245d-45f2-a8bc-bec5be605b53" />
+
+
+
 
 This project showcases an interactive Business Dashboard built in Microsoft Excel to analyze and monitor performance across profit, time, and store dimensions.
 The dashboard provides clear insights into revenue, profitability, customer behavior, and store-level performance using dynamic views and filters.
